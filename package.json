@@ -1,0 +1,24 @@
+{
+  "name": "paulbaarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "account.js",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbaarn/skills-create-applications-with-the-copilot-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pbaarn/skills-create-applications-with-the-copilot-cli/issues"
+  },
+  "homepage": "https://github.com/pbaarn/skills-create-applications-with-the-copilot-cli#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
